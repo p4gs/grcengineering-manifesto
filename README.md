@@ -1,1 +1,5 @@
-# manifesto
+# GRC Engineering Manifesto
+
+## Values
+
+## Principles
