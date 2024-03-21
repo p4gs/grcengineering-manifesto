@@ -1,21 +1,19 @@
 # GRC Engineering Manifesto
 
-GRC Engineering is a step change evolution in the practices of information security governance, risk, and compliance. It seeks to significantly improve the practice of GRC to the extent that organizations' security and privacy practices, programs, and posture measurably and continuously improve for the benefit of their customers, workers, partners, and interrelated communities.
+## Fundamental problems with "Legacy GRC"
 
-GRC Engineering humbly embraces value-add innovations in related professions, such as software development, DevOps, DevSecOps, and seeks to incorporate them in relevant areas of GRC to drive more efficiency and effectiveness in GRC practices toward achieving value-add outcomes for their organizations.
+1. <...>
+2. <...>
+3. <...>
+
+## Purpose of GRC Engineering
+<...>
 
 ## Values
-
-* **Automate early on an often** over complacency with manual processes
-* **Bias toward outcomes** over settling for status quo outputs
-* **Evidence, logic, math, and reason** over fear, uncertainty, and doubt
-* **In-depth testing** over shallow assumptions
-* **Challenging convention** over
-* **Systems thinking and organizational engineering** 
-* **Shared fate collaboration** over command-and-control transactions
+* <...>
 
 ## Principles
-_TBD..._
+* <...>
 
 ### References (Temporary - delete before publishing)
 
